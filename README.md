@@ -16,7 +16,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/Akop1207/Customer_Trends_Data_Analysis.git
    
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
@@ -47,3 +47,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Create interactive dashboard in Power BI
   
+
