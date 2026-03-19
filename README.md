@@ -1,9 +1,9 @@
 # 👨🏻‍💻Customer Behavior Data Analyst  Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+This project represents a complete end-to-end data analytics workflow.The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 
 ## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+The goal of this project is to  translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
@@ -31,7 +31,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+3. **Load the data from Python notebook into MySQL**
 
       - Create a database in SQL
 
